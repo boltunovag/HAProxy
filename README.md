@@ -29,8 +29,8 @@
 ![File haproxy.cfg](files/hw1_haproxy.cfg)
 
 `При необходимости прикрепитe сюда скриншоты`
-![Screen1](images/hwt11.png)
-![Screen2](images/hwt1.png)
+![Screen1](img/hwt11.png)
+![Screen2](img/hwt1.png)
 
 ---
 
@@ -42,8 +42,8 @@
 
 `При необходимости прикрепитe сюда скриншоты`
 
-![Screen1](images/hwt21.png)
-![Screen2](images/hwt2.png)
+![Screen1](img/hwt21.png)
+![Screen2](img/hwt2.png)
 
 ---
 
